@@ -1,6 +1,6 @@
 {
 	"version": "0.2",
-	"description": "Web browser popup plugin. When plugin is installed, you can open webpages via search box like: webbrowse:https://movian.tv or you create bookmarks like that.<br>The feature is only supported on the following platforms Linux, OS X, PS3",
+	"description": "Web browser popup plugin. The feature is only supported on the following platforms Linux, OS X, PS3",
 	"author": "lprot",
 	"homepage": "https://github.com/lprot/movian-plugin-webbrowser",
 	"title": "Web browser",
